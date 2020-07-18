@@ -14,7 +14,7 @@
     "@shoutem/theme": "https://github.com/LighthouseIT/theme",
     "ex-react-native-i18n": "0.0.4",
     "react-native-i18n": "2.0.12",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "moment": "2.22.1",
     "moment-range": "4.0.1",
     "prop-types": "15.6.1",
